@@ -14,7 +14,7 @@ This repository contains a collection of data science projects focusing on vario
 
 ## Machine Learning
 
-### Project 1: [Project Name]
+### Project 1: Venice high tide prediction
 
 #### Overview
 
@@ -30,7 +30,7 @@ This repository contains a collection of data science projects focusing on vario
 
 ---
 
-### Project 2: [Project Name]
+### Project 2: Used cars price prediction
 
 #### Overview
 
@@ -48,7 +48,7 @@ This repository contains a collection of data science projects focusing on vario
 
 ## Natural Language Processing (NLP)
 
-### Project 1: [Project Name]
+### Project 1: Wordle solver
 
 #### Overview
 
@@ -64,7 +64,23 @@ This repository contains a collection of data science projects focusing on vario
 
 ---
 
-### Project 2: [Project Name]
+### Project 2: Subreddit classification
+
+#### Overview
+
+[Provide a brief overview of the project, including its goals and objectives.]
+
+#### Techniques Used
+
+- [List the NLP techniques or algorithms used in the project.]
+
+#### Results
+
+- [Summarize the key findings or results achieved in the project.]
+
+---
+
+### Project 3: SpongeBob chatbot
 
 #### Overview
 
@@ -98,25 +114,9 @@ This repository contains a collection of data science projects focusing on vario
 
 ---
 
-### Project 2: [Project Name]
-
-#### Overview
-
-[Provide a brief overview of the project, including its goals and objectives.]
-
-#### Techniques Used
-
-- [List the deep learning techniques or algorithms used in the project.]
-
-#### Results
-
-- [Summarize the key findings or results achieved in the project.]
-
----
-
 ## Deep Learning for Computer Vision
 
-### Project 1: [Project Name]
+### Project 1: Celebrity Look-alike
 
 #### Overview
 
@@ -132,7 +132,7 @@ This repository contains a collection of data science projects focusing on vario
 
 ---
 
-### Project 2: [Project Name]
+### Project 2: Microscope cell image classification
 
 #### Overview
 
@@ -150,7 +150,7 @@ This repository contains a collection of data science projects focusing on vario
 
 ## Network Analysis
 
-### Project 1: [Project Name]
+### Project 1: [Enron crash]([url](https://en.wikipedia.org/wiki/Enron_scandal)) email network analysis
 
 #### Overview
 
@@ -165,18 +165,4 @@ This repository contains a collection of data science projects focusing on vario
 - [Summarize the key findings or results achieved in the project.]
 
 ---
-
-### Project 2: [Project Name]
-
-#### Overview
-
-[Provide a brief overview of the project, including its goals and objectives.]
-
-#### Techniques Used
-
-- [List the network analysis techniques or algorithms used in the project.]
-
-#### Results
-
-- [Summarize the key findings or results achieved in the project.]
 
