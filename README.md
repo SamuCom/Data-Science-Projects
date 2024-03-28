@@ -154,7 +154,7 @@ This repository contains a collection of data science projects focusing on vario
 
 #### Overview
 
-[Provide a brief overview of the project, including its goals and objectives.]
+The Enron accounting scandal in 2001 resulted in the arrest of employees involved in fraudulent activities. In this study, I have analysed the Enron email database and employed network analysis techniques to assess whether it was possible to determine the key culprits of the fraud within the email network.
 
 #### Techniques Used
 
@@ -162,7 +162,10 @@ This repository contains a collection of data science projects focusing on vario
 
 #### Results
 
-- [Summarize the key findings or results achieved in the project.]
+The analysis successfully identified four of the individuals that were indeed charged in the Enron scandal out of a network of around 8,300 individuals.
+It is important to acknowledge that the findings do not encompass all individuals convicted. Factors such as the effectiveness of legal representation and other external variables can influence legal proceedings’ outcomes.
+The network analysis focused solely on communication patterns, disregarding the content of emails, internal documents, testimonies, and other sources of information.
+The analysis also highlighted the role of those involved but not formally charged, provideing valuable insights into the overall dynamics of the Enron scandal. These findings contribute to a better understanding of the complex network of relationships within Enron during the investigated period and the broader context of the scandal.
 
 ---
 
